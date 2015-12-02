@@ -1,7 +1,2 @@
-hello:::1:null:null:null::null:null:null:null:null:null:null:null:null:null:null:null:null:null:null:null:
-hello:utsav14113@iiitd.ac.in:utsav dave:1:General:Male:No:12/04/2012:Computer Science:Btech:null:cbse:cbse:CSE::IIITD::Delhi:Delhi:96:97:null:null::
-hello:nitin@gmail.com:nitin:1:General:Male:No::Computer Science::null:::::::Delhi:Delhi:::null:null::
-hello:funny:utsav14113:1:SC:Male:No:12/24/2015:Computer Science:adsad:null:asas:acac:afas::asfas::Delhi:Delhi:21:11:null:null::
-hello:funny:utsav14113:1:SC:Male:No:12/24/2015:Computer Science:adsad:null:asas:acac:afas::asfas::Delhi:Delhi:21:11:null:null::
-hello:adas:adas:1:null:null:null::null::null::::::::Delhi:::null:null::
-hello:utsav@gmail.com:asdat:1:General:Male:No:11/12/2015:Computer Science:das:null:csawe:das:asdsagffgd::ewrwe::Delhi:Delhi:21:14:null:null::
+hello:utsav14113@iiitd.ac.in:Utsav Dave:1:General:Male:No:2015-10-02:Computer Science:btech:null:cbse:cbse:CSE::IIITD::Delhi:Delhi:96:97:null:null::2015/12/01:
+hello:nitin@gmail.com:nitin kumar:1:General:Male:No:2015-07-09:Computer Science:cas:null:acas:asdas:gsdg::asnsan::Gurgaon:Delhi:12:12:null:null::2015/12/01:
